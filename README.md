@@ -55,6 +55,7 @@ Built with **Gradio**, the UI allows users to:
 ---
 
 ## 📂 Project Structure
+
 sleep-music-generator/
 ├── sleep55.h5 # Trained sleep stage prediction model
 ├── main.py # Gradio interface and core logic
