@@ -64,13 +64,13 @@ sleep-music-generator/
 🧾 Requirements
 Python 3.8+
 
-Gradio
+- Gradio
 
-TensorFlow / Keras
+- TensorFlow / Keras
 
-Audiocraft
+- Audiocraft
 
-NumPy, SciPy, pydub
+- NumPy, SciPy, pydub
 
-torchaudio
+- torchaudio
 
