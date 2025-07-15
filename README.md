@@ -1,6 +1,6 @@
 # 🌙 Sleep Tunes 🎵
 
-This project combines **sleep stage analysis** with **AI-generated music** to create a personalized and calming experience. Based on simulated physiological data, it predicts the user's sleep stage and generates sleep-stage-specific music using Meta’s MusicGen model.
+This project combines **sleep stage analysis** with **AI-generated music** to create a personalized and calming experience. Based on simulated physiological data, it predicts the user's sleep stage and generates sleep-stage-specific music using Meta’s MusicGen model .
 
 ---
 
